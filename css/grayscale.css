@@ -315,6 +315,10 @@ footer p {
   color: #F7981C;
 }
 
+.content-block {
+  margin-bottom: 500px;
+}
+
 /*img::selection {
   background: transparent;
 }
