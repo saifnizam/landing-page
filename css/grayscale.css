@@ -331,6 +331,14 @@ input[type=text] {
 input[type=text]:focus {
     background-color: #ddd;
     outline: none;
+
+.ceneterWithImage{
+  margin-top: 130px;
+}
+
+.letsMakeItWhite{
+  background-color:white;
+  width:100% !important; 
 }
 
 /*img::selection {
